@@ -1,0 +1,15 @@
+.All_Cards {
+    float: left;
+}
+.images {
+    border-radius: 75%;
+    border: 7px rgb(40, 75, 0) solid;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+h2 {
+    font-size: 2em;
+}
