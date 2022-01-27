@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Api-de-Rick-and-Morty/static/css/main.92ea5245.css",
+    "main.js": "/Api-de-Rick-and-Morty/static/js/main.ec0cfd4b.js",
+    "static/media/CREATURE.png": "/Api-de-Rick-and-Morty/static/media/CREATURE.e0cc0a195f2168daf6b2.png",
+    "static/media/ROBOTS.jpg": "/Api-de-Rick-and-Morty/static/media/ROBOTS.bd8275850389829ad746.jpg",
+    "static/media/HUMANO.png": "/Api-de-Rick-and-Morty/static/media/HUMANO.2b979ad6c54d7931ab8c.png",
+    "static/media/PBH.jpg": "/Api-de-Rick-and-Morty/static/media/PBH.23cce0a903157ecdba5c.jpg",
+    "static/media/GERMENES.jpg": "/Api-de-Rick-and-Morty/static/media/GERMENES.f3fdbffd1eedd3997813.jpg",
+    "static/media/BOSQUE.jpg": "/Api-de-Rick-and-Morty/static/media/BOSQUE.51e7a138db2ea2257290.jpg",
+    "static/media/PORTAL.jpg": "/Api-de-Rick-and-Morty/static/media/PORTAL.6953cbfb7a95d4e45e86.jpg",
+    "static/media/ALIENS.jpg": "/Api-de-Rick-and-Morty/static/media/ALIENS.8ab4ea2c93a73d137d78.jpg",
+    "static/media/LABORATORY.jpg": "/Api-de-Rick-and-Morty/static/media/LABORATORY.ea6004507e7bb6c690c6.jpg",
+    "static/media/DESCONOCIDO.jpg": "/Api-de-Rick-and-Morty/static/media/DESCONOCIDO.44738a23aa7cf80f219a.jpg",
+    "index.html": "/Api-de-Rick-and-Morty/index.html",
+    "main.92ea5245.css.map": "/Api-de-Rick-and-Morty/static/css/main.92ea5245.css.map",
+    "main.ec0cfd4b.js.map": "/Api-de-Rick-and-Morty/static/js/main.ec0cfd4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ea5245.css",
+    "static/js/main.ec0cfd4b.js"
+  ]
+}
