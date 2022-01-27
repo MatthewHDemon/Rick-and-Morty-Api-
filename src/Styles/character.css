@@ -2,8 +2,7 @@
 
 
 .card-container{
-    color: rgb(0, 73, 116);
-    background-image: url("../img/rick-and-morty-wallpaper-portal-wallpaper-001.jpg");
+    color: rgb(0, 0, 0);
     height: 28.5em;
     width: 15em;
     display: flex;
@@ -12,16 +11,18 @@
     font-family: 'Creepster', cursive;
     font-size: 25px;
     border-radius: 5%;
-    border: 7px rgb(32, 73, 134) solid;
+    border: 7px rgb(168, 252, 34) solid;
+    justify-content: center;
 }
 
 .card-img{
     margin: 0 auto;
     padding-top: 1em;
+    justify-content: center;
 }
 
 .boton{
-    color: rgb(51, 32, 8);
+    color: rgb(0, 0, 0);
     font-family: 'Creepster', cursive;
     height: 3.5em;
     width: 7em;
@@ -32,6 +33,13 @@
     border-radius: 8em;
     border-width: thick;
     border-color: rgb(15, 75, 0);
+}
+
+
+.List {
+    display: flex;
+    justify-content: center;
+
 }
 
 

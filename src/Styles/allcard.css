@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Outfit&family=Saira+Condensed:wght@300;400&family=Saira+Semi+Condensed:wght@100;300&display=swap');
+
+
 .All_Cards {
     float: left;
+    background-position-x: -195px;
+    background-position-y: -8.5px;
+    border-radius: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-around;
+    margin: 1em;
+    /* flex-wrap: wrap */;
 }
 .images {
     border-radius: 75%;
@@ -7,9 +18,38 @@
 }
 
 p {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.7em;
 }
+
+.List {
+    padding: 45px 55px;
+    background-color: rgb(0, 0, 0);
+    height: 4em;
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    float: left;
+    /* justify-content: center; */
+}
+
+a {
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Creepster', cursive;
+    color: rgb(0, 255, 255); 
+}
+
+
+
