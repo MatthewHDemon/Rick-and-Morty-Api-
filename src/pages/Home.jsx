@@ -1,6 +1,8 @@
 function Home() {
     return (
-        <div>Home de Rick y Morty</div>
+        <div>
+            <img src="../components/tileburnedin.jpeg" alt="Imagen del Home" />
+        </div>
     )
 }
 
